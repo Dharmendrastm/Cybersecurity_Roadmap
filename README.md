@@ -3,7 +3,7 @@
 # Cybersecurity Roadmap
 
 
-- [Cybersecurity_Roadmap](https://github.com/Dharmendrastm/Cybersecurity_Roadmap/blob/main/cybersecurity_Roadmap-1.jpg)
+- ![Cybersecurity_Roadmap](https://github.com/Dharmendrastm/Cybersecurity_Roadmap/blob/main/cybersecurity_Roadmap-1.jpg)
 
 ## 1. **Understanding Threats and Security Concepts**
 - Threat Classification
